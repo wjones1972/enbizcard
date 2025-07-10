@@ -1,0 +1,23 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jones;Will;;;
+FN:Will Jones
+ORG:Out-Back Motorsports LLC 
+ADR;TYPE=WORK:13727 E 42nd Terrace S, 
+Independence, MO 64055
+TITLE:
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:816-841-2847
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:816-838-4077
+EMAIL;TYPE=WORK:Will@Out-Backmotorsports.com
+URL;TYPE=Digital Business Card:
+URL:https://Out-backmotorsports.com
+URL;TYPE=Website:https://Out-backmotorsports.com
+URL;TYPE=Location:https://www.google.com/maps/place/Out-Back+Motorsports/@39.043685,-94.41804,16z/data=!4m6!3m5!1s0x87c0e3900af2c951:0x955338c0e451ca9a!8m2!3d39.0436846!4d-94.4180405!16s%2Fg%2F11xghd48bn?hl=en&entry=ttu&g_ep=EgoyMDI1MDcwNy4wIKXMDSoASAFQAw%3D%3D
+URL;TYPE=YouTube:https://youtube.com/@Out-BackMotorsports
+URL;TYPE=Facebook:https://facebook.com/william.jones.92775838
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:We offer classic VW and Dune-Buggy parts and service 
+UID:EnBizCard-100082120
+END:VCARD
